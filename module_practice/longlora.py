@@ -8,3 +8,4 @@ def shift(qkv: Tensor, bsz: int, q_len: int, group_size: int, num_heads: int, he
 if __name__ == '__main__':
     # attn_weights = torch.matmul(query_states, key_states.transpose(2, 3)) / math.sqrt(self.head_dim)
     pass
+    pass
