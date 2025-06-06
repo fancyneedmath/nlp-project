@@ -1,3 +1,1 @@
-"bob version" 
-"alice line" 
-"bob line" 
+"init" 
